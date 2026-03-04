@@ -1,12 +1,78 @@
 {
-    "01" {
-        "achievement_name": "Timber!!", 
-        "status": false
-    },
-    "02" : {
-        "Achievement_name": "No Hobo",
-        "status: true"
-
-
-    }
+  "01": {
+    "achievement_name": "Forward to the Past",
+    "description": "Complete the tutorial"
+  },
+  "02": {
+    "achievement_name": "Iconoclast",
+    "description": "Destroy 100 paintings in the Chaos trials"
+  },
+  "03": {
+    "achievement_name": "ULTRAAAAA",
+    "description": "Land a 50 hit combo on any boss"
+  },
+  "04": {
+    "achievement_name": "Best Friends Forever",
+    "description": "Enter the Chaos trials in Co-op mode"
+  },
+  "05": {
+    "achievement_name": "Feel the Burn",
+    "description": "Defeat Flame Empress Zeal"
+  },
+  "06": {
+    "achievement_name": "Breaking the Ice",
+    "description": "Defeat Frost Queen Freiya"
+  },
+  "07": {
+    "achievement_name": "The Turn",
+    "description": "Unlock 50 arcana"
+  },
+  "08": {
+    "achievement_name": "Party like a Rock Star",
+    "description": "Defeat Earth lord Atlas"
+  },
+  "09": {
+    "achievement_name": "Heart of the Cards",
+    "description": "Unlock 99 arcana"
+  },
+  "10": {
+    "achievement_name": "I Make This Look Good",
+    "description": "Unlock 9 outfits"
+  },
+  "11": {
+    "achievement_name": "Indie Collector",
+    "description": "Unlock 50 relics"
+  },
+  "12": {
+    "achievement_name": "Truly Outrageous",
+    "description": "Hold 999 Chaos gems at one time"
+  },
+  "13": {
+    "achievement_name": "Danger is my middle name",
+    "description": "Hold 4 cursed relics at once"
+  },
+  "14": {
+    "achievement_name": "Wizard of Legend",
+    "description": "Defeat Master Sura"
+  },
+  "15": {
+    "achievement_name": "Ordered Chaos",
+    "description": "Unclock 3 chaos arcana"
+  },
+  "16": {
+    "achievement_name": "Gotta Go Fast",
+    "description": "Complete the Chaos trials in under 25 minutes"
+  },
+  "17": {
+    "achievement_name": "Happy Birthday",
+    "description": "Defeat taffy 5 times"
+  },
+  "18": {
+    "achievement_name": "Flawless Victory",
+    "description": "Defeat any boss"
+  },
+  "19": {
+    "achievement_name": "All the Things!",
+    "description": "Unlock 50 relics"
+  }
 }
