@@ -7,11 +7,29 @@
 </head>
 
 <body>
+
+    
     <div class="page-content">
     <h1> Welcome to the Wizard of Legend achievement tracker!</h1>
     <p> If you are trying to 100% Wizard of Legend, this is a simple database to figure it out!</p>
 
 
+<form action="Submit" method="POST">
+{% for key, value in data.items() %}
+
+<label for="if_complete">If completed, check here:</label>
+<input type="checkbox">
+
+{% endfor %}
+
+
+
+
+
+
+
+
+</form>
 <footer>
     <span>Coded by me &copy: 2026</span>
 </footer>
