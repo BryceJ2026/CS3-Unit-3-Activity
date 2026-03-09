@@ -16,7 +16,9 @@
 
 <form action="Submit" method="POST">
 {% for key, value in data.items() %}
+<h2 class =" {{ value.achievement_name }}"> {{ value.achievement_name }}</h2>
 
+<h3 class =" {{ value.description }}"> {{ value.description }}</h3>
 <label for="if_complete">If completed, check here:</label>
 <input type="checkbox">
 
